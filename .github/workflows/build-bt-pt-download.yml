@@ -1,0 +1,77 @@
+name: Build BT/PT/Download Rules
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_build:
+        description: 'Force rebuild (skip diff check)'
+        required: false
+        default: 'false'
+        type: boolean
+  schedule:
+    - cron: '0 0 1 * *'    # 每月1号自动更新
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Rules
+        id: gen
+        run: |
+          python3 generate-rules.py --output .
+
+      - name: Check changes
+        id: diff
+        run: |
+          git add \
+            pt-direct.txt \
+            pt-tracker-direct.txt \
+            bt-tracker-direct.txt \
+            download-direct.txt \
+            all-download-rules.txt \
+            all-download-fakeip.txt
+
+          if [[ "${{ inputs.force_build }}" == "true" ]]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            git diff --cached --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+          # 变更摘要
+          echo "### BT/PT/Download Rules Update" > /tmp/summary.md
+          echo "" >> /tmp/summary.md
+          echo "| 规则集 | 条数 |" >> /tmp/summary.md
+          echo "|--------|------|" >> /tmp/summary.md
+          echo "| PT 站点 (pt-direct) | ${{ steps.gen.outputs.pt-direct_count }} |" >> /tmp/summary.md
+          echo "| PT Tracker | ${{ steps.gen.outputs.pt-tracker_count }} |" >> /tmp/summary.md
+          echo "| BT 公共 Tracker | ${{ steps.gen.outputs.bt-tracker_count }} |" >> /tmp/summary.md
+          echo "| 下载工具/服务 | ${{ steps.gen.outputs.download-services_count }} |" >> /tmp/summary.md
+          echo "| 合并 Direct | ${{ steps.gen.outputs.all-merged_count }} |" >> /tmp/summary.md
+          echo "| 合并 FakeIP | ${{ steps.gen.outputs.all-fakeip_count }} |" >> /tmp/summary.md
+          echo "" >> /tmp/summary.md
+          echo '```diff' >> /tmp/summary.md
+          git diff --cached --stat >> /tmp/summary.md 2>/dev/null || echo "(no diff)" >> /tmp/summary.md
+          echo '```' >> /tmp/summary.md
+          cat /tmp/summary.md >> $GITHUB_STEP_SUMMARY
+
+      - name: Commit & Push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+
+          git add \
+            pt-direct.txt \
+            pt-tracker-direct.txt \
+            bt-tracker-direct.txt \
+            download-direct.txt \
+            all-download-rules.txt \
+            all-download-fakeip.txt
+
+          git commit -m "auto: update BT/PT/Download rules $(date +%Y-%m-%d)"
+          git push
