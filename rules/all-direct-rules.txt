@@ -1,5 +1,5 @@
 # All IYUU PT/BT/Download Rules → Direct
-# Generated: 2026-04-16 12:40:30
+# Generated: 2026-04-16 05:04:36
 115.com
 115cdn.com
 123pan.com
