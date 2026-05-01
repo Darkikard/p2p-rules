@@ -1,5 +1,5 @@
 # All IYUU PT/BT/Download Rules → Direct
-# Generated: 2026-04-16 05:04:36
+# Generated: 2026-05-01 06:08:59
 115.com
 115cdn.com
 123pan.com
@@ -155,7 +155,7 @@ pandapt.net
 pcs.baidu.com
 piggo.me
 pixeldrain.com
-playletpt.xyz
+playlet.cc
 polishtorrent.top
 portugas.org
 pt.0ff.cc
@@ -341,7 +341,7 @@ tracker.p.t-baozi.cc
 tracker.pandapt.net
 tracker.piggo.me
 tracker.pirateparty.gr
-tracker.playletpt.xyz
+tracker.playlet.cc
 tracker.polishtorrent.top
 tracker.pomf.se
 tracker.portugas.org
@@ -426,7 +426,7 @@ tracker.www.devtracker.me
 tracker.www.dragonhd.xyz
 tracker.www.empornium.sx
 tracker.www.gamegamept.com
-tracker.www.haidan.video
+tracker.www.haidan.cc
 tracker.www.hddolby.com
 tracker.www.hdkyl.in
 tracker.www.hitpt.com
@@ -492,7 +492,7 @@ www.dragonhd.xyz
 www.empornium.sx
 www.freedownloadmanager.org
 www.gamegamept.com
-www.haidan.video
+www.haidan.cc
 www.hddolby.com
 www.hdkyl.in
 www.hitpt.com
