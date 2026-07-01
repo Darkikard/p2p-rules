@@ -1,5 +1,5 @@
 # All IYUU PT/BT/Download Rules → Direct
-# Generated: 2026-06-01 08:27:56
+# Generated: 2026-07-01 07:05:12
 115.com
 115cdn.com
 123pan.com
@@ -73,6 +73,7 @@ explodie.org
 fearnopeer.com
 femdomcult.org
 filehelper.115.com
+filelist.io
 files.catbox.moe
 freedownloadmanager.org
 fsm.name
@@ -84,7 +85,7 @@ github.com
 gofile.io
 greatposterwall.com
 h5.cloud.189.cn
-happyfappy.org
+happyfappy.net
 hawke.uno
 hd-united.vn
 hdarea.club
@@ -109,6 +110,7 @@ hub5btmain.sandai.net
 hub5emu.sandai.net
 hub5pr.sandai.net
 hudbt.hust.edu.cn
+iptorrents.com
 ipv4.tracker.harry.lu
 issuecdn.baidupcs.com
 jdownloader.org
@@ -190,7 +192,6 @@ ptlgs.org
 ptsbao.club
 ptvicomo.net
 ptzone.xyz
-qingwapt.com
 racing4everyone.eu
 raingfh.top
 rastastugan.org
@@ -272,13 +273,14 @@ tracker.exoticaz.to
 tracker.fastcast.nz
 tracker.fearnopeer.com
 tracker.femdomcult.org
+tracker.filelist.io
 tracker.filemail.com
 tracker.fsm.name
 tracker.gainbound.net
 tracker.gemini-tracker.org
 tracker.generation-free.org
 tracker.greatposterwall.com
-tracker.happyfappy.org
+tracker.happyfappy.net
 tracker.hawke.uno
 tracker.hd-united.vn
 tracker.hdarea.club
@@ -303,6 +305,7 @@ tracker.hqmusic.info
 tracker.hspt.club
 tracker.hudbt.hust.edu.cn
 tracker.internetwarriors.net
+tracker.iptorrents.com
 tracker.ipv4.download.windowsupdate.com
 tracker.istole.it
 tracker.joybomb.cn
@@ -380,7 +383,6 @@ tracker.ptvicomo.net
 tracker.ptzone.xyz
 tracker.publicbt.com
 tracker.publictorrent.net
-tracker.qingwapt.com
 tracker.racing4everyone.eu
 tracker.raingfh.top
 tracker.rastastugan.org
@@ -445,6 +447,7 @@ tracker.www.pthome.net
 tracker.www.ptlover.cc
 tracker.www.ptskit.com
 tracker.www.pttime.org
+tracker.www.qingwapt.com
 tracker.www.srvfi.top
 tracker.www.tangpt.top
 tracker.www.tokyopt.xyz
@@ -516,6 +519,7 @@ www.pthome.net
 www.ptlover.cc
 www.ptskit.com
 www.pttime.org
+www.qingwapt.com
 www.quark.cn
 www.sandai.net
 www.srvfi.top

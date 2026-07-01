@@ -1,5 +1,5 @@
 # IYUU PT Site Domains → Direct (from pre-dessert-sites)
-# Generated: 2026-06-01 08:27:56
+# Generated: 2026-07-01 07:05:12
 13city.org
 1ptba.com
 52pt.site
@@ -33,11 +33,12 @@ et8.org
 exoticaz.to
 fearnopeer.com
 femdomcult.org
+filelist.io
 fsm.name
 gemini-tracker.org
 generation-free.org
 greatposterwall.com
-happyfappy.org
+happyfappy.net
 hawke.uno
 hd-united.vn
 hdarea.club
@@ -58,6 +59,7 @@ hhanclub.net
 homiehelpdesk.net
 hspt.club
 hudbt.hust.edu.cn
+iptorrents.com
 jpopsuki.eu
 kamept.com
 karagarga.in
@@ -118,7 +120,6 @@ ptlgs.org
 ptsbao.club
 ptvicomo.net
 ptzone.xyz
-qingwapt.com
 racing4everyone.eu
 raingfh.top
 rastastugan.org
@@ -178,11 +179,12 @@ tracker.et8.org
 tracker.exoticaz.to
 tracker.fearnopeer.com
 tracker.femdomcult.org
+tracker.filelist.io
 tracker.fsm.name
 tracker.gemini-tracker.org
 tracker.generation-free.org
 tracker.greatposterwall.com
-tracker.happyfappy.org
+tracker.happyfappy.net
 tracker.hawke.uno
 tracker.hd-united.vn
 tracker.hdarea.club
@@ -204,6 +206,7 @@ tracker.homiehelpdesk.net
 tracker.hqmusic.info
 tracker.hspt.club
 tracker.hudbt.hust.edu.cn
+tracker.iptorrents.com
 tracker.jpopsuki.eu
 tracker.kamept.com
 tracker.karagarga.in
@@ -264,7 +267,6 @@ tracker.ptlgs.org
 tracker.ptsbao.club
 tracker.ptvicomo.net
 tracker.ptzone.xyz
-tracker.qingwapt.com
 tracker.racing4everyone.eu
 tracker.raingfh.top
 tracker.rastastugan.org
@@ -324,6 +326,7 @@ tracker.www.pthome.net
 tracker.www.ptlover.cc
 tracker.www.ptskit.com
 tracker.www.pttime.org
+tracker.www.qingwapt.com
 tracker.www.srvfi.top
 tracker.www.tangpt.top
 tracker.www.tokyopt.xyz
@@ -367,6 +370,7 @@ www.pthome.net
 www.ptlover.cc
 www.ptskit.com
 www.pttime.org
+www.qingwapt.com
 www.srvfi.top
 www.tangpt.top
 www.tokyopt.xyz
