@@ -1,5 +1,5 @@
 # IYUU PT Site Domains → Direct (from pre-dessert-sites)
-# Generated: 2026-08-01 05:46:55
+# Generated: 2026-09-01 08:08:44
 13city.org
 1ptba.com
 52pt.site
@@ -25,6 +25,7 @@ darkland.top
 datascene.xyz
 dicmusic.com
 discfan.net
+dstudio.me
 dubhe.site
 duckboobee.org
 eiga.moi
@@ -94,6 +95,7 @@ pt.agsvpt.cn
 pt.aling.de
 pt.btschool.club
 pt.cdfile.org
+pt.daxiangjiao.org
 pt.eastgame.org
 pt.ecust.pp.ua
 pt.gtk.pw
@@ -171,6 +173,7 @@ tracker.darkland.top
 tracker.datascene.xyz
 tracker.dicmusic.com
 tracker.discfan.net
+tracker.dstudio.me
 tracker.dubhe.site
 tracker.duckboobee.org
 tracker.eiga.moi
@@ -241,6 +244,7 @@ tracker.pt.agsvpt.cn
 tracker.pt.aling.de
 tracker.pt.btschool.club
 tracker.pt.cdfile.org
+tracker.pt.daxiangjiao.org
 tracker.pt.eastgame.org
 tracker.pt.ecust.pp.ua
 tracker.pt.gtk.pw

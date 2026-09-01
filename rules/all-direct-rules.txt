@@ -1,5 +1,5 @@
 # All IYUU PT/BT/Download Rules → Direct
-# Generated: 2026-08-01 05:46:55
+# Generated: 2026-09-01 08:08:44
 115.com
 115cdn.com
 123pan.com
@@ -61,6 +61,7 @@ download.bittorrent.com
 download.transmissionbt.com
 download.utorrent.com
 drive-pc.quark.cn
+dstudio.me
 dubhe.site
 duckboobee.org
 dynamic.cloud.vip.xunlei.com
@@ -166,6 +167,7 @@ pt.agsvpt.cn
 pt.aling.de
 pt.btschool.club
 pt.cdfile.org
+pt.daxiangjiao.org
 pt.eastgame.org
 pt.ecust.pp.ua
 pt.gtk.pw
@@ -264,6 +266,7 @@ tracker.datascene.xyz
 tracker.dicmusic.com
 tracker.discfan.net
 tracker.dler.org
+tracker.dstudio.me
 tracker.dubhe.site
 tracker.duckboobee.org
 tracker.eiga.moi
@@ -354,6 +357,7 @@ tracker.pt.agsvpt.cn
 tracker.pt.aling.de
 tracker.pt.btschool.club
 tracker.pt.cdfile.org
+tracker.pt.daxiangjiao.org
 tracker.pt.eastgame.org
 tracker.pt.ecust.pp.ua
 tracker.pt.gtk.pw
