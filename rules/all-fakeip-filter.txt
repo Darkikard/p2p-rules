@@ -1,5 +1,5 @@
 # All IYUU PT/BT/Download Rules → FakeIP Filter
-# Generated: 2026-09-01 08:08:44
+# Generated: 2026-10-01 09:37:38
 115.com
 115cdn.com
 123pan.com

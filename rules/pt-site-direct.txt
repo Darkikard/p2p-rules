@@ -1,5 +1,5 @@
 # IYUU PT Site Domains → Direct (from pre-dessert-sites)
-# Generated: 2026-09-01 08:08:44
+# Generated: 2026-10-01 09:37:38
 13city.org
 1ptba.com
 52pt.site
