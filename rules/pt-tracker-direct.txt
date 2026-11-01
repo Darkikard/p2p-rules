@@ -1,5 +1,5 @@
 # IYUU PT Tracker Domains → Direct
-# Generated: 2026-10-01 09:37:38
+# Generated: 2026-11-01 09:55:20
 tracker.beitai.pt
 tracker.btschool.club
 tracker.chdbits.co

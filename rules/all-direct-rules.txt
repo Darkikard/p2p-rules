@@ -1,5 +1,5 @@
 # All IYUU PT/BT/Download Rules → Direct
-# Generated: 2026-10-01 09:37:38
+# Generated: 2026-11-01 09:55:20
 115.com
 115cdn.com
 123pan.com
@@ -428,12 +428,12 @@ tracker.wukongwendao.top
 tracker.www.52movie.top
 tracker.www.beitai.pt
 tracker.www.bit-hdtv.com
+tracker.www.colapt.com
 tracker.www.devtracker.me
 tracker.www.dragonhd.xyz
 tracker.www.empornium.sx
 tracker.www.gamegamept.com
 tracker.www.haidan.cc
-tracker.www.hddolby.com
 tracker.www.hdkyl.in
 tracker.www.hitpt.com
 tracker.www.homeporntorrents.club
@@ -455,6 +455,7 @@ tracker.www.qingwapt.com
 tracker.www.srvfi.top
 tracker.www.tangpt.top
 tracker.www.tokyopt.xyz
+tracker.www.uhddolby.com
 tracker.www.yemapt.org
 tracker.www.yhpp.cc
 tracker.www.zootracker.vip
@@ -491,6 +492,7 @@ www.beitai.pt
 www.bit-hdtv.com
 www.bittorrent.com
 www.btdig.com
+www.colapt.com
 www.cowtransfer.com
 www.ctfile.com
 www.devtracker.me
@@ -500,7 +502,6 @@ www.empornium.sx
 www.freedownloadmanager.org
 www.gamegamept.com
 www.haidan.cc
-www.hddolby.com
 www.hdkyl.in
 www.hitpt.com
 www.homeporntorrents.club
@@ -533,6 +534,7 @@ www.tokyopt.xyz
 www.torlock.com
 www.torrentgalaxy.to
 www.transmissionbt.com
+www.uhddolby.com
 www.weiyun.com
 www.wen-shu.com
 www.xunlei.com

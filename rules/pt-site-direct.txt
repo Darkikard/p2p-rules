@@ -1,5 +1,5 @@
 # IYUU PT Site Domains → Direct (from pre-dessert-sites)
-# Generated: 2026-10-01 09:37:38
+# Generated: 2026-11-01 09:55:20
 13city.org
 1ptba.com
 52pt.site
@@ -307,12 +307,12 @@ tracker.wukongwendao.top
 tracker.www.52movie.top
 tracker.www.beitai.pt
 tracker.www.bit-hdtv.com
+tracker.www.colapt.com
 tracker.www.devtracker.me
 tracker.www.dragonhd.xyz
 tracker.www.empornium.sx
 tracker.www.gamegamept.com
 tracker.www.haidan.cc
-tracker.www.hddolby.com
 tracker.www.hdkyl.in
 tracker.www.hitpt.com
 tracker.www.homeporntorrents.club
@@ -334,6 +334,7 @@ tracker.www.qingwapt.com
 tracker.www.srvfi.top
 tracker.www.tangpt.top
 tracker.www.tokyopt.xyz
+tracker.www.uhddolby.com
 tracker.www.yemapt.org
 tracker.www.yhpp.cc
 tracker.www.zootracker.vip
@@ -351,12 +352,12 @@ wukongwendao.top
 www.52movie.top
 www.beitai.pt
 www.bit-hdtv.com
+www.colapt.com
 www.devtracker.me
 www.dragonhd.xyz
 www.empornium.sx
 www.gamegamept.com
 www.haidan.cc
-www.hddolby.com
 www.hdkyl.in
 www.hitpt.com
 www.homeporntorrents.club
@@ -378,6 +379,7 @@ www.qingwapt.com
 www.srvfi.top
 www.tangpt.top
 www.tokyopt.xyz
+www.uhddolby.com
 www.yemapt.org
 www.yhpp.cc
 www.zootracker.vip
